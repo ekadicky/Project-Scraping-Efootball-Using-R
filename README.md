@@ -63,7 +63,6 @@ Data apa saja yang akan dilakukan scraping adalah sebagai berikut :
  <p align="justify">
       
 + **Jenis Mobil**
-    </p>
   Jenis atau tipe mobil Toyota Raize
 + **Harga Mobil**
     </p>
