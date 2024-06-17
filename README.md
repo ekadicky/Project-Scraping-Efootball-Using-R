@@ -32,10 +32,10 @@
 
 # :newspaper: Tentang
 
-**APA ITU EFOOTBALL?**
+**APA ITU CARMUDI?**
 
 <p align="justify">
-IBL adalah singkatan dari "Indonesia Basketball League," yang merupakan liga bola basket profesional di Indonesia. Liga ini dikelola oleh Perbasi (Persatuan Bola Basket Seluruh Indonesia) dan bertujuan untuk mempromosikan dan mengembangkan olahraga bola basket di Indonesia.
+Carmudi adalah situs web wadah untuk mempertemukan antara penjual dengan pembeli bertransaksi kendaraan baru maupun bekas.
 </p>
 
 
@@ -43,7 +43,8 @@ IBL adalah singkatan dari "Indonesia Basketball League," yang merupakan liga bol
 
 <div align="center">
     
- ![image](https://github.com/kevinsoewari/IBL-Scraping/assets/165129110/17cc04f3-b00f-4956-96d3-dfd00b117f1a)
+ ![image](https://github.com/kevinsoewari/IBL-Scraping/assets/165129110/17cc04f3-b00f-4956-96d3-dfd00b117f1a) ![image](https://github.com/kevinsoewari/IBL-Scraping/assets/165129110/17cc04f3-b00f-4956-96d3-dfd00b117f1a)
+
 
 </p>
 
