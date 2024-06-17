@@ -1,9 +1,7 @@
 
 <div align="center">
 
-<img src="[URL_GAMBAR](https://github.com/ekadicky/Project-Scraping-Efootball-Using-R/assets/142238683/3d358657-7a04-4c29-b2bb-2fa24bc2afe7)" width="500" height="300">
-
-
+<img src="https://github.com/ekadicky/Project-Scraping-Efootball-Using-R/assets/142238683/3d358657-7a04-4c29-b2bb-2fa24bc2afe7" width="500" height="300">
 
 
 
