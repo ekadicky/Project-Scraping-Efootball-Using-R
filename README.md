@@ -42,8 +42,9 @@ Carmudi adalah situs web wadah untuk mempertemukan antara penjual dengan pembeli
 ## :open_book: Project 
 
 <div align="center">
-    
-![image](https://github.com/ekadicky/Project-Scraping-Efootball-Using-R/assets/142238683/0676924c-5d84-4cdc-889d-a282521e4edb) ![image](https://github.com/ekadicky/Project-Scraping-Efootball-Using-R/assets/142238683/1acef8b5-8326-4ed1-81d5-15e767ed8f99)
+  <img src="[LINK_GAMBAR_PERTAMA](https://github.com/ekadicky/Project-Scraping-Efootball-Using-R/assets/142238683/0676924c-5d84-4cdc-889d-a282521e4edb)" width="300" />
+  <img src="[LINK_GAMBAR_KEDUA](https://github.com/ekadicky/Project-Scraping-Efootball-Using-R/assets/142238683/1acef8b5-8326-4ed1-81d5-15e767ed8f99)" width="300" />
+</div>
 
 
 
