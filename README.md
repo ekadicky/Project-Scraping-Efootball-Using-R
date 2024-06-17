@@ -62,12 +62,24 @@ Data apa saja yang akan dilakukan scraping adalah sebagai berikut :
 
  <p align="justify">
       
-+ **Jenis Mobil** Jenis atau tipe mobil Toyota Raize
-+ **Harga Mobil** Harga mobil (Bekas)
-+ **Odometer** Jarak yang sudah ditempuh mobil sejak pertama kali release atau dipakai
-+ **Tahun** Tahun produksi mobil
-+ **Transmisi** Jenis transmisi mobil
-+ **Lokasi** Lokasi asal pemilik mobil
++ **Jenis Mobil**
+    </p>
+  Jenis atau tipe mobil Toyota Raize
++ **Harga Mobil**
+    </p>
+  Harga mobil (Bekas)
++ **Odometer**
+    </p>
+  Jarak yang sudah ditempuh mobil sejak pertama kali release atau dipakai
++ **Tahun**
+    </p>
+  Tahun produksi mobil
++ **Transmisi**
+    </p>
+  Jenis transmisi mobil
++ **Lokasi**
+    </p>
+  Lokasi asal pemilik mobil
 </p>
 
 
