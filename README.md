@@ -1,16 +1,17 @@
 
 <div align="center">
 
-![image](https://github.com/ekadicky/Project-Scraping-Efootball-Using-R/assets/142238683/25678f01-bde0-4946-8bd9-2c677b047f05)
+![image](https://github.com/ekadicky/Project-Scraping-Efootball-Using-R/assets/142238683/5fefe159-d7e1-491c-8467-c178312e998d)
 
 
 
 
-# Indonesian Basketball League Scraping
+
+# CARMUDI SCRAPING
 
 <p align="center">
     
-# 🏀: Menu
+🚙🚗🚙🚗🚙🚗 MENU 🚙🚗🚙🚗🚙🚗
 
 </p>
 
@@ -31,7 +32,7 @@
 
 # :newspaper: Tentang
 
-**Sekilas Tentang IBL**
+**APA ITU EFOOTBALL?**
 
 <p align="justify">
 IBL adalah singkatan dari "Indonesia Basketball League," yang merupakan liga bola basket profesional di Indonesia. Liga ini dikelola oleh Perbasi (Persatuan Bola Basket Seluruh Indonesia) dan bertujuan untuk mempromosikan dan mengembangkan olahraga bola basket di Indonesia.
