@@ -86,14 +86,12 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk Toyota Raize :
 
 ## :bar_chart: Visualiasi-Data-Scraping
 Berikut merupakan link data visualisasi dari hasil scraping : 
-+ [IBL(Indonesian Basket League) Data Scraping and Visualization](https://rpubs.com/alifviansyah/iblscraping)
 
 
 ## :computer: PPT
 Berikut adalah link powerpoint yang memuat projek ini :
-(https://github.com/kevinsoewari/IBL-Scraping/blob/main/PPT-IBL-Scraping.pdf)
 
 
 
 ## :panda_face: Pengembang
-+ [Kevin_Alifviansyah](https://github.com/kevinsoewari/) (G1501231018)
++ [Eka Dicky Darmawan Yanuari](https://github.com/ekadicky/) (G1501231088)
